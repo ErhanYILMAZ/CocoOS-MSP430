@@ -1,0 +1,1 @@
+"./cocoOS_3.1.0/Source/os_task.obj" "./cocoOS_3.1.0/Source/os_sem.obj" "./cocoOS_3.1.0/Source/os_msgqueue.obj" "./cocoOS_3.1.0/Source/os_kernel.obj" "./cocoOS_3.1.0/Source/os_event.obj" "./cocoOS_3.1.0/Source/os_cbk.obj" "./cocoOS_3.1.0/Source/os_assert.obj" "./cocoOS_3.1.0/Source/clock.obj" "./main.obj" "../lnk_msp430g2553.cmd" -l"libc.a" 
